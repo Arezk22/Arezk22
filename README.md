@@ -6,7 +6,7 @@
 ## **<ins><div align="center">I'm Ahmed Rezk, a full-time full-stack developer </div></ins>**  
   
 
-- 🔭 I’m avialble for hiring  
+- 🔭 I’m avialable for hiring  
   
 
 - ❓ Ask me about anything related to  HTML, CSS, JavaScript, Bootstrab, React,  Python, FastAPI, Django ,Flask, Database fundamental , MySQL, Postgresql , Generative_Ai , Docker , system admin1, shell script  
